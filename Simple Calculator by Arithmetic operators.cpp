@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-int main() {
+int main()
+{
 	int a,b,add,sub,multi,remd;
 	float div;
 	cout<<"\n \t CALCULATOR";
